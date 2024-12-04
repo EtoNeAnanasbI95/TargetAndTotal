@@ -1,4 +1,4 @@
-module TargetAndTotal
+module github.com/EtoNeAnanasbI95/TargetAndTotal
 
 go 1.23.3
 
