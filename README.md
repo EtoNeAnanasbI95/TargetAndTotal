@@ -13,4 +13,7 @@
 > 
 > Утилита имеет абсолютную зависимость от запущенной ollama, если у вас её нет, то вам необходимо поставить [её](https://hub.docker.com/r/ollama/ollama) и запустить соотвествующим образом
 
-* Выполнить установку можно с помощью утилиты 
+* Выполнить установку можно с помощью утилиты go install
+```
+go install github.com/EtoNeAnanasbI95/TargetAndTotal/cmd/TargetAndTotal
+```
