@@ -106,10 +106,3 @@ func main() {
 	fmt.Println()
 	fmt.Println(resColor(result))
 }
-
-func clearBuffer() {
-	reader := bufio.NewScanner(os.Stdin)
-	for {
-		reader.Scan()
-	}
-}
